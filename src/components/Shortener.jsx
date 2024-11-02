@@ -49,7 +49,7 @@ const UrlShortener = () => {
   return (
     <div className="flex flex-col  min-h-screen pb-10 pt-5 justify-between">
       <Navbar />
-      <div className="w-5/12 mx-auto p-6 space-y-4">
+      <div className="lg:w-5/12 w-full mx-auto p-6 space-y-4">
         <h1 className="text-2xl font-bold text-center mb-6">Lets Start!</h1>
 
         <div className="space-y-4">

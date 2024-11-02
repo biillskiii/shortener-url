@@ -7,7 +7,7 @@ const Watermark = () => {
   };
 
   return (
-    <div className="w-full flex flex-col items-end justify-end pr-16 space-y-5">
+    <div className="w-full flex flex-col items-end justify-end lg:pr-16 pr-5 space-y-5">
       <span>Reach me out:</span>
       <div>
         <div
